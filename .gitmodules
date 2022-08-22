@@ -1,0 +1,12 @@
+[submodule "kicad_files/libraries/MX_Alps_Hybrid"]
+	path = kicad_files/libraries/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "kicad_files/libraries/acheron_MXH_metalrings.pretty"]
+	path = kicad_files/libraries/acheron_MXH_metalrings.pretty
+	url = https://github.com/AcheronProject/acheron_MXH_metalrings.pretty.git
+[submodule "kicad_files/libraries/Keebio-Parts.pretty"]
+	path = kicad_files/libraries/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "kicad_files/libraries/keebio-components"]
+	path = kicad_files/libraries/keebio-components
+	url = https://github.com/keebio/keebio-components.git
