@@ -1,4 +1,4 @@
-20574923167379966
+20576584376072635
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87060,6 +87060,13 @@ Diode-dual-onesided
 2
 custom_parts
 SK6812-MINI-E-custom
+
+
+0
+4
+4
+custom_parts
+TRRS-PJ-320A
 
 
 0
