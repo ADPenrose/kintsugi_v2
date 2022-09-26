@@ -10,3 +10,6 @@
 [submodule "kicad_files/libraries/keebio-components"]
 	path = kicad_files/libraries/keebio-components
 	url = https://github.com/keebio/keebio-components.git
+[submodule "kicad_files/libraries/marbastlib"]
+	path = kicad_files/libraries/marbastlib
+	url = https://github.com/ebastler/marbastlib

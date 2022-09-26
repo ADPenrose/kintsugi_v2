@@ -3,4 +3,5 @@
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "custom_parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/local/custom_parts.pretty")(options "")(descr ""))
   (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/libraries/local/logos.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
 )
