@@ -4,4 +4,5 @@
   (lib (name "custom_parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/local/custom_parts.pretty")(options "")(descr ""))
   (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/libraries/local/logos.pretty")(options "")(descr ""))
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
 )
